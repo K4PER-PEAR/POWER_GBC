@@ -1,0 +1,21 @@
+Id,Designator,Footprint,Quantity,Part Number,Manufacturer,Description,Value,Supplier and ref,Notes
+1,R8,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,RC0603FR-07732KL,YAGEO,RES 732K OHM 1% 1/10W 0603,732k,Digikey/Mouser,
+2,"C13,C11,C12,C14",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,4,GRM21BR61A476ME15L,Murata Electronics,CAP CER 47UF 10V X5R 0805,47u,Digikey/Mouser,
+3,"R9,R10",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2,RC0603FR-0791KL,YAGEO,RES 91K OHM 1% 1/10W 0603,91k,Digikey/Mouser,
+4,L4,L_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,HTEK20161T-1R0MSR,Delta Electronics/Cyntec,FIXED IND 1UH 4.5A 43 MOHM SMD,1u,Digikey/Mouser,
+5,U4,SOT-583-8,1,TPS61033DRLR,Texas Instruments,IC REG BOOST ADJ SOT583,TPS61033,Digikey/Mouser,
+6,J2,PinHeader_1x04_P2.54mm_Vertical,1,61300411121,Würth Elektronik,CONN HEADER VERT 4POS 2.54MM,Conn_01x04,Digikey/Mouser,Any 0.1” (2.54 mm) pitch header will do
+7,U5,SOT-23-5,1,NCP718ASN500T1G,onsemi,IC REG LINEAR 5V 300MA TSOT23-5,NCP718ASN500T1G,Digikey/Mouser,Do not sub with TPS7A2050PDBVR
+8,J1,PinHeader_1x03_P2.54mm_Vertical,1,M20-9990345,Harwin Inc.,CONN HEADER VERT 3POS 2.54MM,Conn_01x03,Digikey/Mouser,Any 0.1” (2.54 mm) pitch header will do
+9,"D1,D2,D3",D_SOD-323_HandSoldering,3,ZHCS400TA,Diodes Incorporated,DIODE SCHOTTKY 40V 400MA SOD323,D_Small_Filled,Digikey/Mouser,
+10,R3,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,RC0603FR-0711KL,YAGEO,RES 11K OHM 1% 1/10W 0603,11k,Digikey/Mouser,
+11,R6,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,RC0603FR-0724K9L,YAGEO,RES 24.9K OHM 1% 1/10W 0603,24.9k,Digikey/Mouser,
+12,"L3,L2",L_1210_4term,2,ADL3225VT-100M-TL000,TDK Corporation,FIXED IND 10UH 450MA 150MOHM SMD,10u,Digikey/Mouser,
+13,C7,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1,GCM1885C2A101JA16D,Murata Electronics,CAP CER 100PF 100V C0G/NP0 0603,100p,Digikey/Mouser,
+14,C4,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1,CL10A475KP8NNNC,Samsung Electro-Mechanics,CAP CER 4.7UF 10V X5R 0603,4.7u,Digikey/Mouser,
+15,C3,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1,EMK107BJ104KAHT,Taiyo Yuden,CAP CER 0.1UF 16V X5R 0603,100n,Digikey/Mouser,
+16,"C5,C6",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,2,GRT188R61H105KE13D,Murata Electronics,CAP CER 1UF 50V X5R 0603,1u,Digikey/Mouser,
+17,R5,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,RC0603FR-07267KL,YAGEO,RES 267K OHM 1% 1/10W 0603,267k,Digikey/Mouser,
+18,R4,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,RC0603FR-07110KL,YAGEO,RES 110K OHM 1% 1/10W 0603,110k,Digikey/Mouser,
+19,C8,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1,CC0603BRNPO0BN4R7,YAGEO,CAP CER 4.7PF 100V C0G/NPO 0603,4.7p,Digikey/Mouser,
+20,U2,MSOP-10_3x3mm_P0.5mm,1,LT1945EMS#TRPBF,Analog Devices Inc.,IC REG BOOST SEPIC ADJ DL 10MSOP,LT1945,Digikey/Mouser,
