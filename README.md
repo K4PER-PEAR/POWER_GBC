@@ -31,9 +31,11 @@ The circuitry for the original LCD TFT display found in the GBC requires two hig
 # Manufacturing
 
 I have shared the PWA design on OSH Park for easy ordering: https://oshpark.com/shared_projects/ieaQHZPN
+
 I have also included the gerber files in case you would rather order from a specific board manufacturer: [Gerbers](gerbers_revC0.zip)
 
 All components were sourced from Digikey as listed in the BOM: [BOM](BOM_revC0.csv)
+
 Components were selected to make hand soldering more readily viable: passives no smaller than 0603, only leaded components.
 
 - The TPS61033 is a little difficult to solder by hand, so if you prefer reflowing solder paste, than this would certainly be the component to do it with.
