@@ -8,7 +8,7 @@ This design was motivated due to obsolescence of components on the GBC power sup
 
 # Design
 
-Full schematic can be found here: [Schematic](schematic_revC0)
+Full schematic can be found here: [Schematic](schematic_revC0.png)
 
 The PWA was designed to use the same footprint as the existing power supply. It is split between two switchmode power ICs that generate the output voltages needed. Both supplies are layed out based on the manufacturers suggestions in the component datasheets. 
 
